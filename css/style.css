@@ -363,7 +363,7 @@ ul.medium_menu {
       font-size: 70px;
       color: #fff;
       position: absolute;
-      z-index: 13; }
+      z-index: 8; }
   .photo_box .green_box {
     background: url(../images/green_box.png) no-repeat center;
     height: auto;
@@ -404,7 +404,7 @@ ul.medium_menu {
   border-radius: 7px;
   left: -27px;
   top: 45%;
-  z-index: 15; }
+  z-index: 10; }
   .arrows:hover {
     color: #2cd39a; }
   .arrows .prev, .arrows .next {
