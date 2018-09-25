@@ -11,7 +11,7 @@ $(document).ready(function(){
 					$("div.green_box").addClass("overlayed");
 				$("#overlay").css({"right":"0", "width":"63.8%"});
 			}
-			console.log("dupa");
+
 		});
 
 		$( "#left-control" ).click(function() {
